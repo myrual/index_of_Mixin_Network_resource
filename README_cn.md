@@ -19,7 +19,7 @@ https://developers.mixin.one/dashboard
 ### Mixin Network API
 https://developers.mixin.one/api
 
-### 开发者资源
+### 开发者入门介绍
 
 * [简体中文](https://mixin-network.gitbook.io/mixin-network-cn/)
 
